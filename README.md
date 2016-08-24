@@ -1,4 +1,4 @@
-# week-6-knowledge-dump
+# Week 6 Knowledge Dump
 
 There's not much here yet, except for some nearly-empty documents and a bunch of issues.
 
