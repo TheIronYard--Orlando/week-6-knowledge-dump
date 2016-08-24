@@ -1,0 +1,15 @@
+A task runner is an extremely useful tool for front end applications.
+Common tasks like watching for file changes, concatenating/minifying files prefixing
+files for different browsers and linting javascript are automated in order to lighten the
+everyday worldload of programers.
+
+A package manager concentrates mainly on finding,
+ installing, and updating packages.
+
+A alternative to using a task runner like grunt or gulp is using npm as both a package manager
+and a task manager as well. which is useful often simpler and less code than grunt or gulp and its all
+in your packages.json file instead of its own grunt or gulpfile.
+
+If there was no package managers like npm or bower you would either have to link all your packages in your
+html and you would have to manage the packages manually or right all your applications from scratch both of which
+is undesired and tedious.
